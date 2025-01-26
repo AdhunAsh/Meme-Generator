@@ -1,0 +1,44 @@
+body {
+    background-image: url('/images/wallpaperflare.com_wallpaper\ \(1\).jpg');
+    background-size:cover;
+
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #D4AF37;
+    font-size: 40px;
+    /* text-decoration:underline solid rgb(34, 255, 0); */
+}
+#memeCanvas{ 
+    color: white;
+}
+
+.meme-generate {
+    color: white;
+    margin: 20px auto;
+    width: 400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.meme-generate label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.meme-generate input {
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    height: 30px;
+}
+
+#meme {
+    width: 100%;
+}
+
+#dwnld {
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 5px;
+}
